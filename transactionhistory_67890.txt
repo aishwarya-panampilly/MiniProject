@@ -1,0 +1,5 @@
+Date: 2024-10-20 19:00:05
+Type: Transfer In
+Amount: 10.00
+Balance: 24610.00
+

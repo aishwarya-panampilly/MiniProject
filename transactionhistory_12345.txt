@@ -1,0 +1,20 @@
+Date: 2024-10-20 18:49:44
+Type: Withdrawal
+Amount: 0.00
+Balance: 4920.50
+
+Date: 2024-10-20 18:59:08
+Type: Deposit
+Amount: 10.00
+Balance: 4930.50
+
+Date: 2024-10-20 18:59:21
+Type: Withdrawal
+Amount: 30.00
+Balance: 4900.50
+
+Date: 2024-10-20 19:00:05
+Type: Transfer Out
+Amount: 10.00
+Balance: 4890.50
+

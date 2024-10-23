@@ -1,0 +1,8 @@
+12345 John 30 elm 4890.50
+67890 Jane 28 oak 24610.00
+54321 Alice 35 pine 1520.75
+98765 Bob 40 maple 3000.00
+87654 ash 34 pop 456.00
+77777 raint 33 zzz 43442.00
+666 hello 12 bangalore 4992.00
+64 loll 321 sad 3492.00

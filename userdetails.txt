@@ -1,0 +1,13 @@
+ct john pass11 12345
+ct jane pass2 67890
+ct alice pass3 54321
+ct bob pass4 98765
+emp clara qwerty 3982
+emp danny uiop 8304
+emp elsa asdf 9380
+man finn poiuy 895
+man george mnbv 107
+ad heidi oooo 13
+emp tester uiop 890
+
+ct lol lol 64
